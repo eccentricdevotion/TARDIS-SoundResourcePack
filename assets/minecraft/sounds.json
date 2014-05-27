@@ -1,0 +1,112 @@
+{
+    "tardis_takeoff": {
+        "sounds": [
+            "tardis_takeoff"
+        ]
+    },
+    "tardis_land": {
+        "sounds": [
+            "tardis_land"
+        ]
+    },
+    "tardis_hum": {
+        "sounds": [
+            "tardis_hum_1",
+            "tardis_hum_2",
+            "tardis_hum_3",
+            "tardis_hum_4",
+            "tardis_hum_5",
+            "tardis_hum_6",
+            "tardis_hum_7",
+            "tardis_hum_8",
+            "tardis_hum_9",
+            "tardis_hum_10"
+        ]
+    },
+    "sonic_screwdriver": {
+        "sounds": [
+            "sonic_screwdriver"
+        ]
+    },
+    "sonic_medium": {
+        "sounds": [
+            "sonic_screwdriver_medium"
+        ]
+    },
+    "sonic_short": {
+        "sounds": [
+            "sonic_screwdriver_short"
+        ]
+    },
+    "police_box_open": {
+        "sounds": [
+            "police_box_open"
+        ]
+    },
+    "police_box_close": {
+        "sounds": [
+            "police_box_close"
+        ]
+    },
+    "tardis_door_open": {
+        "sounds": [
+            "tardis_door_open"
+        ]
+    },
+    "tardis_door_close": {
+        "sounds": [
+            "tardis_door_close"
+        ]
+    },
+    "tardis_handbrake_engage": {
+        "sounds": [
+            "tardis_handbrake_engage"
+        ]
+    },
+    "tardis_handbrake_release": {
+        "sounds": [
+            "tardis_handbrake_release"
+        ]
+    },
+    "tardis_cloister_bell": {
+        "sounds": [
+            "tardis_cloister_bell"
+        ]
+    },
+    "tardis_scanner": {
+        "sounds": [
+            "tardis_scanner"
+        ]
+    },
+    "tardis_malfunction": {
+        "sounds": [
+            "tardis_malfunction"
+        ]
+    },
+    "tardis_enter": {
+        "sounds": [
+            "tardis_enter"
+        ]
+    },
+    "lazarus_machine": {
+        "sounds": [
+            "lazarus_machine"
+        ]
+    },
+    "interior_flight": {
+        "sounds": [
+            "interior_flight",
+            "interior_flight_1"
+        ]
+    },
+    "power_up": {
+        "sounds": [
+            "power_up"
+        ]
+    },
+    "power_down": {
+        "sounds": [
+            "power_down"
+        ]
+    }
+}
