@@ -16,7 +16,7 @@ Here's a quick run down on doing that:
    * [GitHub for Mac](https://mac.github.com/)
    * [GitHub for Windows](https://windows.github.com/)
 2. Start GitHub client and create a free GitHub account (if you don’t have one)
-3. In your web browser, naviagte to the TARDIS resource pack repositories
+3. In your web browser, navigate to the TARDIS resource pack repositories
    * [TARDIS-MCP](https://github.com/eccentricdevotion/TARDIS-MCP)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
    * [Bromley Massive Vector](https://github.com/eccentricdevotion/Bromley-Massive-Vector)
