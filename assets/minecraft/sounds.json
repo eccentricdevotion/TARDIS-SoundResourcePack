@@ -108,5 +108,28 @@
         "sounds": [
             "power_down"
         ]
+    },
+    "empty_child": {
+        "sounds": [
+            "empty_child_mummy",
+            "empty_child_scared"
+        ]
+    },
+    "cyberman": {
+        "sounds": [
+            "cyberman_become",
+            "cyberman_citizen",
+            "cyberman_deleted"
+        ]
+    },
+    "dalek": {
+        "sounds": [
+            "dalek_beginning",
+            "dalek_destroy",
+            "dalek_doctor",
+            "dalek_exterminate",
+            "dalek_no_more",
+            "dalek_stay"
+        ]
     }
 }
