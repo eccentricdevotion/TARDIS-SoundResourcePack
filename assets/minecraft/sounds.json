@@ -129,7 +129,25 @@
             "dalek_doctor",
             "dalek_exterminate",
             "dalek_no_more",
-            "dalek_stay"
+            "dalek_stay",
+            "dalek_doctor_must_die"
+        ]
+    },
+    "dalek_hit": {
+        "sounds": [
+            "dalek_hit"
+        ]
+    },
+    "hath": {
+        "sounds": [
+            "hath"
+        ]
+    },
+    "sontaran": {
+        "sounds": [
+            "sontaran_too_easy",
+            "sontaran_sontar_ha",
+            "sontaran_stahl"
         ]
     }
 }
