@@ -149,5 +149,22 @@
             "sontaran_sontar_ha",
             "sontaran_stahl"
         ]
+    },
+    "strax": {
+        "sounds": [
+            "strax_apathy_1",
+            "strax_apathy_2",
+            "strax_discuss"
+        ]
+    },
+    "milk": {
+        "sounds": [
+            "strax_lactic"
+        ]
+    },
+    "vashta": {
+        "sounds": [
+            "vashta_nerada_lights"
+        ]
     }
 }
