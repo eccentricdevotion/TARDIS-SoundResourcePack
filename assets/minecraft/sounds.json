@@ -9,6 +9,21 @@
             "tardis_land"
         ]
     },
+    "tardis_lock": {
+        "sounds": [
+            "tardis_remote"
+        ]
+    },
+    "tardis_hide": {
+        "sounds": [
+            "tardis_hide"
+        ]
+    },
+    "tardis_rebuild": {
+        "sounds": [
+            "tardis_rebuild"
+        ]
+    },
     "tardis_hum": {
         "sounds": [
             "tardis_hum_1",
