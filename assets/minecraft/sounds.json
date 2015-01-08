@@ -124,6 +124,11 @@
             "power_down"
         ]
     },
+    "artron_furnace": {
+        "sounds": [
+            "artron_furnace"
+        ]
+    },
     "empty_child": {
         "sounds": [
             "empty_child_mummy",
