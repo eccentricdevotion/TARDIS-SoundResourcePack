@@ -129,6 +129,21 @@
             "artron_furnace"
         ]
     },
+    "junk_takeoff": {
+        "sounds": [
+            "junk_takeoff"
+        ]
+    },
+    "junk_land": {
+        "sounds": [
+            "junk_land"
+        ]
+    },
+    "junk_arc": {
+        "sounds": [
+            "junk_arc"
+        ]
+    },
     "empty_child": {
         "sounds": [
             "empty_child_mummy",
