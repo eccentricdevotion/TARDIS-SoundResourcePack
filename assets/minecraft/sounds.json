@@ -178,6 +178,12 @@
             "hath"
         ]
     },
+    "silence": {
+        "sounds": [
+            "silence",
+            "silent_rattle"
+        ]
+    },
     "sontaran": {
         "sounds": [
             "sontaran_too_easy",
