@@ -4,6 +4,11 @@
             "tardis_takeoff"
         ]
     },
+    "tardis_takeoff_fast": {
+        "sounds": [
+            "tardis_takeoff_fast"
+        ]
+    },
     "tardis_land": {
         "sounds": [
             "tardis_land"
