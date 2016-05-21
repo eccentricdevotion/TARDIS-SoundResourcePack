@@ -9,6 +9,11 @@
             "tardis_land"
         ]
     },
+    "tardis_land_fast": {
+        "sounds": [
+            "tardis_land_fast"
+        ]
+    },
     "tardis_lock": {
         "sounds": [
             "tardis_remote"
