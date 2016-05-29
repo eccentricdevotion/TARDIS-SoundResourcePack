@@ -19,6 +19,8 @@ Here's a quick run down on doing that:
 3. In your web browser, navigate to the TARDIS resource pack repositories
    * [TARDIS-MCP](https://github.com/eccentricdevotion/TARDIS-MCP)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
+   * [Skaro](https://github.com/eccentricdevotion/Skaro)
+   * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack)
    * [Bromley Massive Vector](https://github.com/eccentricdevotion/Bromley-Massive-Vector)
 4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
 5. Save the repository clone in the minecraft/resourcepacks folder
