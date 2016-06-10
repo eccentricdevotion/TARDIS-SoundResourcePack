@@ -120,8 +120,12 @@
     },
     "interior_flight": {
         "sounds": [
-            "interior_flight",
-            "interior_flight_1"
+            "interior_flight"
+        ]
+    },
+    "time_rotor": {
+        "sounds": [
+            "time_rotor"
         ]
     },
     "power_up": {
