@@ -19,6 +19,11 @@
             "tardis_land_fast"
         ]
     },
+    "tardis_emergency_land": {
+        "sounds": [
+            "tardis_emergency_land"
+        ]
+    },
     "tardis_lock": {
         "sounds": [
             "tardis_remote"
@@ -45,7 +50,8 @@
             "tardis_hum_7",
             "tardis_hum_8",
             "tardis_hum_9",
-            "tardis_hum_10"
+            "tardis_hum_10",
+            "tardis_hum_11"
         ]
     },
     "sonic_screwdriver": {
