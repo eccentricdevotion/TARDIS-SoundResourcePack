@@ -40,18 +40,151 @@
         ]
     },
     "tardis_hum": {
+        "category": "ambient",
         "sounds": [
-            "tardis_hum_1",
-            "tardis_hum_2",
-            "tardis_hum_3",
-            "tardis_hum_4",
-            "tardis_hum_5",
-            "tardis_hum_6",
-            "tardis_hum_7",
-            "tardis_hum_8",
-            "tardis_hum_9",
-            "tardis_hum_10",
-            "tardis_hum_11"
+            {
+                "name": "tardis_hum_coral",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_copper",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_computer",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_sleeping",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_galaxy",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_mind",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_void",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_alien",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_atmosphere",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_learning",
+                "type": "event"
+            },
+            {
+                "name": "tardis_hum_neon",
+                "type": "event"
+            }
+        ]
+    },
+    "tardis_hum_coral": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_1",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_copper": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_2",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_computer": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_3",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_sleeping": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_4",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_galaxy": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_5",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_mind": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_6",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_void": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_7",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_alien": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_8",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_atmosphere": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_9",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_learning": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_10",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_neon": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_11",
+                "stream": true
+            }
         ]
     },
     "sonic_screwdriver": {
