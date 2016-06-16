@@ -29,16 +29,6 @@
             "tardis_remote"
         ]
     },
-    "tardis_hide": {
-        "sounds": [
-            "tardis_hide"
-        ]
-    },
-    "tardis_rebuild": {
-        "sounds": [
-            "tardis_rebuild"
-        ]
-    },
     "tardis_hum": {
         "sounds": [
             "tardis_hum_1",
@@ -124,11 +114,6 @@
             "lazarus_machine"
         ]
     },
-    "interior_flight": {
-        "sounds": [
-            "interior_flight"
-        ]
-    },
     "time_rotor": {
         "sounds": [
             "time_rotor"
@@ -162,70 +147,6 @@
     "junk_arc": {
         "sounds": [
             "junk_arc"
-        ]
-    },
-    "empty_child": {
-        "sounds": [
-            "empty_child_mummy",
-            "empty_child_scared"
-        ]
-    },
-    "cyberman": {
-        "sounds": [
-            "cyberman_become",
-            "cyberman_citizen",
-            "cyberman_deleted"
-        ]
-    },
-    "dalek": {
-        "sounds": [
-            "dalek_beginning",
-            "dalek_destroy",
-            "dalek_doctor",
-            "dalek_exterminate",
-            "dalek_no_more",
-            "dalek_stay",
-            "dalek_doctor_must_die"
-        ]
-    },
-    "dalek_hit": {
-        "sounds": [
-            "dalek_hit"
-        ]
-    },
-    "hath": {
-        "sounds": [
-            "hath"
-        ]
-    },
-    "silence": {
-        "sounds": [
-            "silence",
-            "silent_rattle"
-        ]
-    },
-    "sontaran": {
-        "sounds": [
-            "sontaran_too_easy",
-            "sontaran_sontar_ha",
-            "sontaran_stahl"
-        ]
-    },
-    "strax": {
-        "sounds": [
-            "strax_apathy_1",
-            "strax_apathy_2",
-            "strax_discuss"
-        ]
-    },
-    "milk": {
-        "sounds": [
-            "strax_lactic"
-        ]
-    },
-    "vashta": {
-        "sounds": [
-            "vashta_nerada_lights"
         ]
     }
 }
