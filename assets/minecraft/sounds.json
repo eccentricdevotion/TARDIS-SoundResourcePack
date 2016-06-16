@@ -44,6 +44,94 @@
             "tardis_hum_11"
         ]
     },
+    "tardis_hum_neon": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_11",
+            "stream": true
+          }]
+    },
+    "tardis_hum_copper": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_2",
+            "stream": true
+          }]
+    },
+    "tardis_hum_coral": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_1",
+            "stream": true
+          }]
+    },
+    "tardis_hum_3": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_3",
+            "stream": true
+          }]
+    },
+    "tardis_hum_4": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_4",
+            "stream": true
+          }]
+    },
+    "tardis_hum_5": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_5",
+            "stream": true
+          }]
+    },
+    "tardis_hum_6": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_6",
+            "stream": true
+          }]
+    },
+    "tardis_hum_7": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_7",
+            "stream": true
+          }]
+    },
+    "tardis_hum_8": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_8",
+            "stream": true
+          }]
+    },
+    "tardis_hum_9": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_9",
+            "stream": true
+          }]
+    },
+    "tardis_hum_10": {
+        "category": "ambient",
+        "sounds": [
+          {
+            "name": "tardis_hum_10",
+            "stream": true
+          }]
+    },
     "sonic_screwdriver": {
         "sounds": [
             "sonic_screwdriver"
