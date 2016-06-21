@@ -247,6 +247,11 @@
             "tardis_malfunction"
         ]
     },
+    "tardis_malfunction_takeoff": {
+        "sounds": [
+            "tardis_malfunction_takeoff"
+        ]
+    },
     "tardis_enter": {
         "sounds": [
             "tardis_enter"
