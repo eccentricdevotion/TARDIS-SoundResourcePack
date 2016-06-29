@@ -272,6 +272,11 @@
             "time_rotor"
         ]
     },
+    "tardis_low_fuel": {
+        "sounds": [
+            "tardis_low_fuel"
+        ]
+    },
     "power_up": {
         "sounds": [
             "power_up"
