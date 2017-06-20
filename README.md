@@ -1,12 +1,12 @@
-#TARDIS-Sounds
+# TARDIS-Sounds
 
 A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Bukkit plugin. This pack provides the sounds to make your TARDIS sound like the real deal.
 
-##Installation
+## Installation
 
 Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
 
-##Alternate installation and keeping up-to-date
+## Alternate installation and keeping up-to-date
 
 As the TARDIS resource packs are shared in GitHub repositories. If you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
 
