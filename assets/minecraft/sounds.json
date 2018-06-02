@@ -375,15 +375,23 @@
     "handles": {
         "category": "voice",
         "sounds": [
+            "handles_affirmative",
+            "handles_attention",
+            "handles_comfort",
+            "handles_confirmed",
             "handles_fault_1",
             "handles_fault_2",
-            "handles_attention",
+            "handles_fault_3",
+            "handles_gallifrey",
+            "handles_official",
+            "handles_processing",
             "handles_urgent"
         ]
     },
     "handles_reminder": {
         "category": "voice",
         "sounds": [
+            "handles_information",
             "handles_reminder"
         ]
     },
