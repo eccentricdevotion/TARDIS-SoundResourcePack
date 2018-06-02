@@ -365,5 +365,31 @@
         "sounds": [
             "vashta_nerada_lights"
         ]
+    },
+    "blink": {
+        "category": "voice",
+        "sounds": [
+            "blink"
+        ]
+    },
+    "handles": {
+        "category": "voice",
+        "sounds": [
+            "handles_fault_1",
+            "handles_fault_2",
+            "handles_attention",
+            "handles_urgent"
+        ]
+    },
+    "handles_reminder": {
+        "category": "voice",
+        "sounds": [
+            "handles_reminder"
+        ]
+    },
+    "handles_scanner": {
+        "sounds": [
+            "handles_scanner"
+        ]
     }
 }
