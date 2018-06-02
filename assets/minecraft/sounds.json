@@ -378,7 +378,6 @@
             "handles_affirmative",
             "handles_attention",
             "handles_comfort",
-            "handles_confirmed",
             "handles_fault_1",
             "handles_fault_2",
             "handles_fault_3",
@@ -398,6 +397,11 @@
     "handles_scanner": {
         "sounds": [
             "handles_scanner"
+        ]
+    },
+    "handles_confirmed": {
+        "sounds": [
+            "handles_confirmed"
         ]
     }
 }
