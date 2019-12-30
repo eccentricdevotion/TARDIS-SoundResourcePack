@@ -1,40 +1,48 @@
 {
     "tardis_takeoff": {
+        "category": "master",
         "sounds": [
             "tardis_takeoff"
         ]
     },
     "tardis_takeoff_fast": {
+        "category": "master",
         "sounds": [
             "tardis_takeoff_fast"
         ]
     },
     "tardis_land": {
+        "category": "master",
         "sounds": [
             "tardis_land"
         ]
     },
     "tardis_land_fast": {
+        "category": "master",
         "sounds": [
             "tardis_land_fast"
         ]
     },
     "tardis_emergency_land": {
+        "category": "master",
         "sounds": [
             "tardis_emergency_land"
         ]
     },
     "tardis_lock": {
+        "category": "master",
         "sounds": [
             "tardis_remote"
         ]
     },
     "tardis_hide": {
+        "category": "master",
         "sounds": [
             "tardis_hide"
         ]
     },
     "tardis_rebuild": {
+        "category": "master",
         "sounds": [
             "tardis_rebuild"
         ]
@@ -188,118 +196,238 @@
         ]
     },
     "sonic_screwdriver": {
+        "category": "master",
         "sounds": [
             "sonic_screwdriver"
         ]
     },
     "sonic_medium": {
+        "category": "master",
         "sounds": [
             "sonic_screwdriver_medium"
         ]
     },
     "sonic_short": {
+        "category": "master",
         "sounds": [
             "sonic_screwdriver_short"
         ]
     },
     "police_box_open": {
+        "category": "master",
         "sounds": [
             "police_box_open"
         ]
     },
     "police_box_close": {
+        "category": "master",
         "sounds": [
             "police_box_close"
         ]
     },
     "tardis_door_open": {
+        "category": "master",
         "sounds": [
             "tardis_door_open"
         ]
     },
     "tardis_door_close": {
+        "category": "master",
         "sounds": [
             "tardis_door_close"
         ]
     },
     "tardis_handbrake_engage": {
+        "category": "master",
         "sounds": [
             "tardis_handbrake_engage"
         ]
     },
     "tardis_handbrake_release": {
+        "category": "master",
         "sounds": [
             "tardis_handbrake_release"
         ]
     },
     "tardis_cloister_bell": {
+        "category": "master",
         "sounds": [
             "tardis_cloister_bell"
         ]
     },
     "tardis_scanner": {
+        "category": "master",
         "sounds": [
             "tardis_scanner"
         ]
     },
     "tardis_malfunction": {
+        "category": "master",
         "sounds": [
             "tardis_malfunction"
         ]
     },
     "tardis_malfunction_takeoff": {
+        "category": "master",
         "sounds": [
             "tardis_malfunction_takeoff"
         ]
     },
     "tardis_enter": {
+        "category": "master",
         "sounds": [
             "tardis_enter"
         ]
     },
     "lazarus_machine": {
+        "category": "master",
         "sounds": [
             "lazarus_machine"
         ]
     },
     "interior_flight": {
+        "category": "master",
         "sounds": [
             "interior_flight"
         ]
     },
     "time_rotor": {
+        "category": "master",
         "sounds": [
             "time_rotor"
         ]
     },
     "power_up": {
+        "category": "master",
         "sounds": [
             "power_up"
         ]
     },
     "power_down": {
+        "category": "master",
         "sounds": [
             "power_down"
         ]
     },
     "artron_furnace": {
+        "category": "master",
         "sounds": [
             "artron_furnace"
         ]
     },
     "junk_takeoff": {
+        "category": "master",
         "sounds": [
             "junk_takeoff"
         ]
     },
     "junk_land": {
+        "category": "master",
         "sounds": [
             "junk_land"
         ]
     },
     "junk_arc": {
+        "category": "master",
         "sounds": [
             "junk_arc"
+        ]
+    },
+    "empty_child": {
+        "category": "hostile",
+        "sounds": [
+            "empty_child_mummy",
+            "empty_child_scared"
+        ]
+    },
+    "cyberman": {
+        "category": "hostile",
+        "sounds": [
+            "cyberman_become",
+            "cyberman_citizen",
+            "cyberman_deleted"
+        ]
+    },
+    "dalek": {
+        "category": "hostile",
+        "sounds": [
+            "dalek_beginning",
+            "dalek_destroy",
+            "dalek_doctor",
+            "dalek_exterminate",
+            "dalek_no_more",
+            "dalek_stay",
+            "dalek_doctor_must_die"
+        ]
+    },
+    "dalek_hit": {
+        "category": "master",
+        "sounds": [
+            "dalek_hit"
+        ]
+    },
+    "hath": {
+        "category": "neutral",
+        "sounds": [
+            "hath"
+        ]
+    },
+    "silence": {
+        "category": "hostile",
+        "sounds": [
+            "silence",
+            "silent_rattle"
+        ]
+    },
+    "sontaran": {
+        "category": "hostile",
+        "sounds": [
+            "sontaran_too_easy",
+            "sontaran_sontar_ha",
+            "sontaran_stahl"
+        ]
+    },
+    "strax": {
+        "category": "neutral",
+        "sounds": [
+            "strax_apathy_1",
+            "strax_apathy_2",
+            "strax_discuss"
+        ]
+    },
+    "milk": {
+        "category": "neutral",
+        "sounds": [
+            "strax_lactic"
+        ]
+    },
+    "vashta": {
+        "category": "hostile",
+        "sounds": [
+            "vashta_nerada_lights"
+        ]
+    },
+    "blink": {
+        "category": "voice",
+        "sounds": [
+            "blink"
+        ]
+    },
+    "k9": {
+        "category": "neutral",
+        "sounds": [
+            "k9_affirmative",
+            "k9_available_data",
+            "k9_danger",
+            "k9_designation",
+            "k9_efficient",
+            "k9_i_am",
+            "k9_insufficient",
+            "k9_mistress",
+            "k9_negative",
+            "k9_print_out",
+            "k9_quicker",
+            "k9_the_doctor"
         ]
     },
     "handles": {
@@ -308,6 +436,7 @@
             "handles_affirmative",
             "handles_attention",
             "handles_comfort",
+            "handles_confirmed",
             "handles_fault_1",
             "handles_fault_2",
             "handles_fault_3",
