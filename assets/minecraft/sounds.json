@@ -441,6 +441,14 @@
             "ood_we_must_feed"
         ]
     },
+    "judoon": {
+        "category": "neutral",
+        "sounds": [
+            "judoon_catalogued",
+            "judoon_execution",
+            "judoon_no_kro_blo"
+        ]
+    },
     "handles": {
         "category": "voice",
         "sounds": [
