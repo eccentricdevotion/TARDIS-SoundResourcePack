@@ -4,7 +4,7 @@ A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugi
 
 ## Installation
 
-Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
+The resource pack zip file is hosted on the TARDIS Jenkins server, and is refreshed everytime a change is pushed to this repository. [http://tardisjenkins.duckdns.org:8080/job/TARDIS-SoundResourcePack/](http://tardisjenkins.duckdns.org:8080/job/TARDIS-SoundResourcePack/)
 
 ## Alternate installation and keeping up-to-date
 
