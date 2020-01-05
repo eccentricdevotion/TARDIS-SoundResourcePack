@@ -449,6 +449,12 @@
             "judoon_no_kro_blo"
         ]
     },
+    "judoon_fire": {
+        "category": "hostile",
+        "sounds": [
+            "judoon_fire"
+        ]
+    },
     "handles": {
         "category": "voice",
         "sounds": [
