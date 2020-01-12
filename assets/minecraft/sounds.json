@@ -441,6 +441,18 @@
             "ood_we_must_feed"
         ]
     },
+    "silurian": {
+        "category": "hostile",
+        "sounds": [
+            "silurian_cages",
+            "silurian_come_here",
+            "silurian_destroy",
+            "silurian_how",
+            "silurian_planet",
+            "silurian_reclaim",
+            "silurian_who"
+        ]
+    },
     "judoon": {
         "category": "neutral",
         "sounds": [
