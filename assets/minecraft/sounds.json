@@ -499,5 +499,23 @@
         "sounds": [
             "handles_confirmed"
         ]
+    },
+    "tardis_force_field": {
+        "category": "master",
+        "sounds": [
+            "force_field"
+        ]
+    },
+    "tardis_force_field_up": {
+        "category": "master",
+        "sounds": [
+            "force_field_up"
+        ]
+    },
+    "tardis_force_field_down": {
+        "category": "master",
+        "sounds": [
+            "force_field_down"
+        ]
     }
 }
