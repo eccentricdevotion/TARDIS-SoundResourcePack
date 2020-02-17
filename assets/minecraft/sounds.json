@@ -255,6 +255,12 @@
             "tardis_cloister_bell"
         ]
     },
+    "cloister_bell": {
+        "category": "master",
+        "sounds": [
+            "cloister_bell"
+        ]
+    },
     "tardis_scanner": {
         "category": "master",
         "sounds": [
@@ -467,6 +473,12 @@
             "judoon_fire"
         ]
     },
+    "toclafane": {
+        "category": "hostile",
+        "sounds": [
+            "toclafane"
+        ]
+    },
     "handles": {
         "category": "voice",
         "sounds": [
@@ -491,11 +503,13 @@
         ]
     },
     "handles_scanner": {
+        "category": "voice",
         "sounds": [
             "handles_scanner"
         ]
     },
     "handles_confirmed": {
+        "category": "voice",
         "sounds": [
             "handles_confirmed"
         ]
