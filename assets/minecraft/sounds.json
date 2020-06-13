@@ -373,7 +373,7 @@
         "sounds": [
             "junk_land"
         ],
-        "subtitle": "TARDIS materilaizes"
+        "subtitle": "TARDIS lands"
     },
     "junk_arc": {
         "category": "master",
@@ -537,7 +537,7 @@
         "sounds": [
             "toclafane"
         ],
-        "subtitle": "Blades unsheath"
+        "subtitle": "Toclafane lades unsheath"
     },
     "warrior": {
         "category": "hostile",
