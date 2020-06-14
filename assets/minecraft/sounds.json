@@ -3,49 +3,57 @@
         "category": "master",
         "sounds": [
             "tardis_takeoff"
-        ]
+        ],
+        "subtitle": "TARDIS takes off"
     },
     "tardis_takeoff_fast": {
         "category": "master",
         "sounds": [
             "tardis_takeoff_fast"
-        ]
+        ],
+        "subtitle": "TARDIS takes off"
     },
     "tardis_land": {
         "category": "master",
         "sounds": [
             "tardis_land"
-        ]
+        ],
+        "subtitle": "TARDIS lands"
     },
     "tardis_land_fast": {
         "category": "master",
         "sounds": [
             "tardis_land_fast"
-        ]
+        ],
+        "subtitle": "TARDIS lands"
     },
     "tardis_emergency_land": {
         "category": "master",
         "sounds": [
             "tardis_emergency_land"
-        ]
+        ],
+        "subtitle": "TARDIS lands"
     },
     "tardis_lock": {
         "category": "master",
         "sounds": [
             "tardis_remote"
-        ]
+        ],
+        "subtitle": "Remote chirps"
     },
     "tardis_hide": {
         "category": "master",
         "sounds": [
             "tardis_hide"
-        ]
+        ],
+        "subtitle": "TARDIS hides"
     },
     "tardis_rebuild": {
         "category": "master",
         "sounds": [
             "tardis_rebuild"
-        ]
+        ],
+        "subtitle": "TARDIS rebuilds"
     },
     "tardis_hum": {
         "category": "ambient",
@@ -94,7 +102,8 @@
                 "name": "tardis_hum_neon",
                 "type": "event"
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_coral": {
         "category": "ambient",
@@ -103,7 +112,8 @@
                 "name": "tardis_hum_1",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_copper": {
         "category": "ambient",
@@ -112,7 +122,8 @@
                 "name": "tardis_hum_2",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_computer": {
         "category": "ambient",
@@ -121,7 +132,8 @@
                 "name": "tardis_hum_3",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_sleeping": {
         "category": "ambient",
@@ -130,7 +142,8 @@
                 "name": "tardis_hum_4",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_galaxy": {
         "category": "ambient",
@@ -139,7 +152,8 @@
                 "name": "tardis_hum_5",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_mind": {
         "category": "ambient",
@@ -148,7 +162,8 @@
                 "name": "tardis_hum_6",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_void": {
         "category": "ambient",
@@ -157,7 +172,8 @@
                 "name": "tardis_hum_7",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_alien": {
         "category": "ambient",
@@ -166,7 +182,8 @@
                 "name": "tardis_hum_8",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_atmosphere": {
         "category": "ambient",
@@ -175,7 +192,8 @@
                 "name": "tardis_hum_9",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_learning": {
         "category": "ambient",
@@ -184,7 +202,8 @@
                 "name": "tardis_hum_10",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "tardis_hum_neon": {
         "category": "ambient",
@@ -193,91 +212,106 @@
                 "name": "tardis_hum_11",
                 "stream": true
             }
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "sonic_screwdriver": {
         "category": "master",
         "sounds": [
             "sonic_screwdriver"
-        ]
+        ],
+        "subtitle": "Screwdriver whirrs"
     },
     "sonic_medium": {
         "category": "master",
         "sounds": [
             "sonic_screwdriver_medium"
-        ]
+        ],
+        "subtitle": "Screwdriver whirrs"
     },
     "sonic_short": {
         "category": "master",
         "sounds": [
             "sonic_screwdriver_short"
-        ]
+        ],
+        "subtitle": "Screwdriver whirrs"
     },
     "police_box_open": {
         "category": "master",
         "sounds": [
             "police_box_open"
-        ]
+        ],
+        "subtitle": "Door creaks"
     },
     "police_box_close": {
         "category": "master",
         "sounds": [
             "police_box_close"
-        ]
+        ],
+        "subtitle": "Door closes"
     },
     "tardis_door_open": {
         "category": "master",
         "sounds": [
             "tardis_door_open"
-        ]
+        ],
+        "subtitle": "Door opens"
     },
     "tardis_door_close": {
         "category": "master",
         "sounds": [
             "tardis_door_close"
-        ]
+        ],
+        "subtitle": "Door closes"
     },
     "tardis_handbrake_engage": {
         "category": "master",
         "sounds": [
             "tardis_handbrake_engage"
-        ]
+        ],
+        "subtitle": "Handbrake engages"
     },
     "tardis_handbrake_release": {
         "category": "master",
         "sounds": [
             "tardis_handbrake_release"
-        ]
+        ],
+        "subtitle": "Handbrake releases"
     },
     "tardis_cloister_bell": {
         "category": "master",
         "sounds": [
             "tardis_cloister_bell"
-        ]
+        ],
+        "subtitle": "Cloister bell tolls"
     },
     "cloister_bell": {
         "category": "master",
         "sounds": [
             "cloister_bell"
-        ]
+        ],
+        "subtitle": "Cloister bell tolls"
     },
     "tardis_scanner": {
         "category": "master",
         "sounds": [
             "tardis_scanner"
-        ]
+        ],
+        "subtitle": "Scanner blips"
     },
     "tardis_malfunction": {
         "category": "master",
         "sounds": [
             "tardis_malfunction"
-        ]
+        ],
+        "subtitle": "Engines stall"
     },
     "tardis_malfunction_takeoff": {
         "category": "master",
         "sounds": [
             "tardis_malfunction_takeoff"
-        ]
+        ],
+        "subtitle": "Engines stall"
     },
     "tardis_enter": {
         "category": "master",
@@ -289,62 +323,72 @@
         "category": "master",
         "sounds": [
             "lazarus_machine"
-        ]
+        ],
+        "subtitle": "Machine whirrs"
     },
     "interior_flight": {
         "category": "master",
         "sounds": [
             "interior_flight"
-        ]
+        ],
+        "subtitle": "TARDIS hums"
     },
     "time_rotor": {
         "category": "master",
         "sounds": [
             "time_rotor"
-        ]
+        ],
+        "subtitle": "TARDIS vworps"
     },
     "power_up": {
         "category": "master",
         "sounds": [
             "power_up"
-        ]
+        ],
+        "subtitle": "TARDIS powers up"
     },
     "power_down": {
         "category": "master",
         "sounds": [
             "power_down"
-        ]
+        ],
+        "subtitle": "TARDIS powers down"
     },
     "artron_furnace": {
         "category": "master",
         "sounds": [
             "artron_furnace"
-        ]
+        ],
+        "subtitle": "Artron furnace crackles"
     },
     "junk_takeoff": {
         "category": "master",
         "sounds": [
             "junk_takeoff"
-        ]
+        ],
+        "subtitle": "TARDIS takes off"
     },
     "junk_land": {
         "category": "master",
         "sounds": [
             "junk_land"
-        ]
+        ],
+        "subtitle": "TARDIS lands"
     },
     "junk_arc": {
         "category": "master",
         "sounds": [
             "junk_arc"
-        ]
+        ],
+        "subtitle": "Energy crackles"
     },
     "empty_child": {
         "category": "hostile",
         "sounds": [
             "empty_child_mummy",
             "empty_child_scared"
-        ]
+        ],
+        "subtitle": "Empty Child speaks"
     },
     "cyberman": {
         "category": "hostile",
@@ -352,7 +396,8 @@
             "cyberman_become",
             "cyberman_citizen",
             "cyberman_deleted"
-        ]
+        ],
+        "subtitle": "Cyberman speaks"
     },
     "dalek": {
         "category": "hostile",
@@ -364,26 +409,30 @@
             "dalek_no_more",
             "dalek_stay",
             "dalek_doctor_must_die"
-        ]
+        ],
+        "subtitle": "Dalek shouts"
     },
     "dalek_hit": {
         "category": "master",
         "sounds": [
             "dalek_hit"
-        ]
+        ],
+        "subtitle": "Metal clangs"
     },
     "hath": {
         "category": "neutral",
         "sounds": [
             "hath"
-        ]
+        ],
+        "subtitle": "Hath bubbles"
     },
     "silence": {
         "category": "hostile",
         "sounds": [
             "silence",
             "silent_rattle"
-        ]
+        ],
+        "subtitle": "Silent rasps"
     },
     "sontaran": {
         "category": "hostile",
@@ -391,7 +440,8 @@
             "sontaran_too_easy",
             "sontaran_sontar_ha",
             "sontaran_stahl"
-        ]
+        ],
+        "subtitle": "Sontaran shouts"
     },
     "strax": {
         "category": "neutral",
@@ -399,25 +449,29 @@
             "strax_apathy_1",
             "strax_apathy_2",
             "strax_discuss"
-        ]
+        ],
+        "subtitle": "Strax complains"
     },
     "milk": {
         "category": "neutral",
         "sounds": [
             "strax_lactic"
-        ]
+        ],
+        "subtitle": "Strax speaks"
     },
     "vashta": {
         "category": "hostile",
         "sounds": [
             "vashta_nerada_lights"
-        ]
+        ],
+        "subtitle": "\"Hey, who turned out the lights?\""
     },
     "blink": {
         "category": "voice",
         "sounds": [
             "blink"
-        ]
+        ],
+        "subtitle": "\"Don't blink!\""
     },
     "k9": {
         "category": "neutral",
@@ -434,7 +488,8 @@
             "k9_print_out",
             "k9_quicker",
             "k9_the_doctor"
-        ]
+        ],
+        "subtitle": "K9 speaks"
     },
     "ood": {
         "category": "neutral",
@@ -445,7 +500,8 @@
             "ood_kindness",
             "ood_the_beast_and_his_armies",
             "ood_we_must_feed"
-        ]
+        ],
+        "subtitle": "Ood speaks"
     },
     "silurian": {
         "category": "hostile",
@@ -457,7 +513,8 @@
             "silurian_planet",
             "silurian_reclaim",
             "silurian_who"
-        ]
+        ],
+        "subtitle": "Silurian shouts"
     },
     "judoon": {
         "category": "neutral",
@@ -465,25 +522,29 @@
             "judoon_catalogued",
             "judoon_execution",
             "judoon_no_kro_blo"
-        ]
+        ],
+        "subtitle": "Judoon shouts"
     },
     "judoon_fire": {
         "category": "hostile",
         "sounds": [
             "judoon_fire"
-        ]
+        ],
+        "subtitle": "Laser fires"
     },
     "toclafane": {
         "category": "hostile",
         "sounds": [
             "toclafane"
-        ]
+        ],
+        "subtitle": "Toclafane blades unsheath"
     },
     "warrior": {
         "category": "hostile",
         "sounds": [
             "ice_warrior_skaldak"
-        ]
+        ],
+        "subtitle": "Ice Warrior speaks"
     },
     "zygon": {
         "category": "hostile",
@@ -493,7 +554,8 @@
             "zygon_snarl",
             "zygon_traitors",
             "zygon_truth"
-        ]
+        ],
+        "subtitle": "Zygon snarls"
     },
     "handles": {
         "category": "voice",
@@ -509,43 +571,50 @@
             "handles_official",
             "handles_processing",
             "handles_urgent"
-        ]
+        ],
+        "subtitle": "Handles speaks"
     },
     "handles_reminder": {
         "category": "voice",
         "sounds": [
             "handles_information",
             "handles_reminder"
-        ]
+        ],
+        "subtitle": "Handles informs"
     },
     "handles_scanner": {
         "category": "voice",
         "sounds": [
             "handles_scanner"
-        ]
+        ],
+        "subtitle": "Handles scans"
     },
     "handles_confirmed": {
         "category": "voice",
         "sounds": [
             "handles_confirmed"
-        ]
+        ],
+        "subtitle": "Handles confirms"
     },
     "tardis_force_field": {
         "category": "master",
         "sounds": [
             "force_field"
-        ]
+        ],
+        "subtitle": "Force field whirrs"
     },
     "tardis_force_field_up": {
         "category": "master",
         "sounds": [
             "force_field_up"
-        ]
+        ],
+        "subtitle": "Force field raises"
     },
     "tardis_force_field_down": {
         "category": "master",
         "sounds": [
             "force_field_down"
-        ]
+        ],
+        "subtitle": "Force field lowers"
     }
 }
