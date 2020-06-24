@@ -13,6 +13,27 @@
         ],
         "subtitle": "TARDIS takes off"
     },
+    "tardis_takeoff_faster": {
+        "category": "master",
+        "sounds": [
+            "tardis_takeoff_faster"
+        ],
+        "subtitle": "TARDIS takes off"
+    },
+    "tardis_takeoff_rapid": {
+        "category": "master",
+        "sounds": [
+            "tardis_takeoff_rapid"
+        ],
+        "subtitle": "TARDIS takes off"
+    },
+    "tardis_takeoff_warp": {
+        "category": "master",
+        "sounds": [
+            "tardis_takeoff_warp"
+        ],
+        "subtitle": "TARDIS takes off"
+    },
     "tardis_land": {
         "category": "master",
         "sounds": [
@@ -24,6 +45,27 @@
         "category": "master",
         "sounds": [
             "tardis_land_fast"
+        ],
+        "subtitle": "TARDIS lands"
+    },
+    "tardis_land_faster": {
+        "category": "master",
+        "sounds": [
+            "tardis_land_faster"
+        ],
+        "subtitle": "TARDIS lands"
+    },
+    "tardis_land_rapid": {
+        "category": "master",
+        "sounds": [
+            "tardis_land_rapid"
+        ],
+        "subtitle": "TARDIS lands"
+    },
+    "tardis_land_warp": {
+        "category": "master",
+        "sounds": [
+            "tardis_land_warp"
         ],
         "subtitle": "TARDIS lands"
     },
