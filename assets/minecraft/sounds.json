@@ -658,5 +658,35 @@
             "force_field_down"
         ],
         "subtitle": "Force field lowers"
+    },
+    "theme_63": {
+        "category": "music",
+        "sounds": [
+            "theme_63"
+        ],
+        "subtitle": "Doctor Who Theme 1963-1969"
+    },
+    "theme_05": {
+        "category": "music",
+        "sounds": [
+            "theme_05"
+        ],
+        "subtitle": "Doctor Who Theme 2005"
+    },
+    "theme_20": {
+        "category": "music",
+        "sounds": [
+            "theme_20"
+        ],
+        "subtitle": "Doctor Who Theme 2020-?"
+    },
+    "theme": {
+        "category": "music",
+        "sounds": [
+            "theme_63",
+            "theme_05",
+            "theme_20"            
+        ],
+        "subtitle": "Doctor Who Theme"
     }
 }
