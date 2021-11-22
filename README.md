@@ -1,6 +1,6 @@
 # TARDIS-Sounds
 
-A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Bukkit plugin. This pack provides the sounds to make your TARDIS sound like the real deal.
+A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Bukkit plugin. This pack provides the sounds to make your TARDIS sound like the real deal. There is also a [Bedrock version](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack-Bedrock).
 
 ## Installation
 
