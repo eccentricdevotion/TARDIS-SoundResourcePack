@@ -599,6 +599,57 @@
         ],
         "subtitle": "Zygon snarls"
     },
+   "headless_monk":{
+      "category":"neutral",
+      "sounds":[
+         "headless_monk"
+      ],
+      "subtitle":"Headless Monk prays"
+   },
+   "sea_devil":{
+      "category":"hostile",
+      "sounds":[
+         "sea_devil_parasite",
+         "sea_devil_no_mercy",
+         "sea_devil_material",
+         "sea_devil_returned"
+      ],
+      "subtitle":"Silent rasps"
+   },
+   "slitheen":{
+      "category":"hostile",
+      "sounds":[
+         "slitheen_fart_1",
+         "slitheen_fart_2",
+         "slitheen_fart_3",
+         "slitheen_fart_4"
+      ],
+      "subtitle":"Slitheen farts"
+   },
+   "racnoss":{
+      "category":"hostile",
+      "sounds":[
+         "racnoss_couple",
+         "racnoss_empress",
+         "racnoss_hiss",
+         "racnoss_laugh",
+         "racnoss_particles",
+         "racnoss_scourged",
+         "racnoss_suffer"
+      ],
+      "subtitle":"Racnoss taunts"
+   },
+   "dalek_sec":{
+      "category":"hostile",
+      "sounds":[
+         "dalek_sec_everything",
+         "dalek_sec_form",
+         "dalek_sec_humanity",
+         "dalek_sec_i_am",
+         "dalek_sec_war"
+      ],
+      "subtitle":"Dalek Sec speaks"
+   },
     "handles": {
         "category": "voice",
         "sounds": [
