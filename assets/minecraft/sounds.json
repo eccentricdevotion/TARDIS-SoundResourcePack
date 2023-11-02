@@ -382,6 +382,13 @@
         ],
         "subtitle": "TARDIS vworps"
     },
+    "time_rotor_flying": {
+        "category": "master",
+        "sounds": [
+            "time_rotor_flying"
+        ],
+        "subtitle": "TARDIS vworps"
+    },
     "power_up": {
         "category": "master",
         "sounds": [
@@ -736,7 +743,7 @@
         "sounds": [
             "theme_63",
             "theme_05",
-            "theme_20"            
+            "theme_20"
         ],
         "subtitle": "Doctor Who Theme"
     }
