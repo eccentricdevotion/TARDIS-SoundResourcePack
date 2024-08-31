@@ -646,6 +646,24 @@
       ],
       "subtitle":"Racnoss taunts"
    },
+   "scarecrow":{
+     "category":"hostile",
+      "sounds":[
+         "scarecrow_1",
+         "scarecrow_2",
+         "scarecrow_3"
+      ],
+      "subtitle":"Scarecrow rustles"
+   },
+   "sycorax":{
+     "category":"hostile",
+      "sounds":[
+         "sycorax_1",
+         "sycorax_2",
+         "sycorax_3"
+      ],
+      "subtitle":"Sycorax bellows"
+   },
    "dalek_sec":{
       "category":"hostile",
       "sounds":[
